@@ -1,0 +1,47 @@
+Supermercado
+Carne
+Suco
+Sabão 
+Arroz
+Feijão
+Carne
+Pão
+Leite
+END
+Produtos de Limpeza
+Detergente
+Esponja
+Desinfetante
+Vassoura
+Pano de Limpeza
+Sacos de Lixo
+END
+Ferramentas
+Martelo
+Chave de fenda
+Chave inglesa
+Alicate
+Fita métrica
+Parafusos
+Pregos
+Serra
+END
+Farmácia
+Analgésico
+Antisséptico
+Antiácido
+END
+Eletrônicos
+Smartphone - 2
+Laptop - 1
+Tablet - 1
+Televisão - 1
+Fone de ouvido Bluetooth - 2
+Câmera digital - 1
+END
+lista teste
+mmmmm
+2
+3
+4
+END
